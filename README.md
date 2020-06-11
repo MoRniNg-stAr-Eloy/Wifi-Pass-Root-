@@ -6,8 +6,8 @@ Note : Im not Responsible for any brick in your device
             
 Commands
            
-           `git clone`
-           `cd wifi-pass[Root]`
+           `git clone https://github.com/MoRniNg-stAr-Eloy/Wifi-Pass-Root-.git`
+           `cd wifi-pass-[Root]`
            `ls`
    Note this is the importent step. you want give root access to run the script
            `su`
@@ -18,7 +18,7 @@ Commands
   If any problem.There is Back up file is safe.  if you want to restore it Run Restore.sh ?
   
             `su`
-            `bash Restore.sh`
+            `bash Restoresh`
    
    anyway feel free to contact me
    
