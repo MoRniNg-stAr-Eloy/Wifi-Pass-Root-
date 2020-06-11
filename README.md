@@ -1,3 +1,6 @@
+
+#WIFI PASS [ROOT]
+
 Note : Im not Responsible for any brick in your device
             Do it Your own Risk....
             
@@ -17,7 +20,7 @@ Commands
             `su`
             `bash Restore.sh`
    
-   anyway feel free to contact me 
+   anyway feel free to contact me
    
    email : morning_star_08@protonmail.com
    
